@@ -1,0 +1,25 @@
+.row{   
+
+    background-color:black;
+    color:#E5C100;
+    font-size:20px;
+    font-family: 'Kalam', cursive;
+    display:flex;
+    justify-content:space-around;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:#202f3e;
+    color:#E5C100;
+    align-items:center;
+    font-size:50px;
+    font-family: 'Handlee', cursive;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
